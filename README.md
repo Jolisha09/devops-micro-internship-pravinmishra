@@ -14,11 +14,11 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Jolisha Angelin P |
+| **LinkedIn** | [ (https://www.linkedin.com/in/jolisha-angelin-p/)) |
+| **Location** | TamilNadu,India |
+| **Background** | Computer Science Student |
+| **Goal** | Build strong DevOps & AI skills and gain practical experience through real-world projects |
 
 ---
 
