@@ -34,9 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
-
----
+I learned that a networking protocol is a set of rules that helps devices communicate with each other. I also learned about protocols like HTTP, HTTPS, TCP, IP, FTP, and DNS.
 
 # 🌐 Task 2: Internet and Networking
 
