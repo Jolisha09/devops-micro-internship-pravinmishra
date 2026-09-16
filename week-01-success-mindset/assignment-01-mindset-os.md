@@ -55,11 +55,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Consistent daily practice improves my technical skills more effectively than studying only when I have a lot of free time.
 
 ### Evidence from my life
 
-Add your answer here...
+I started practicing Java, DSA, and coding problems regularly instead of studying them only occasionally. By solving problems repeatedly, I became more comfortable with arrays, strings, collections, and basic problem-solving. Regular practice also helped me understand concepts that initially seemed difficult.
 
 ---
 
@@ -67,11 +67,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Breaking a large technical task into smaller steps makes it easier to complete and understand.
 
 ### Evidence from my life
 
-Add your answer here...
+While working on my projects and internship assignments, I noticed that trying to complete everything at once was confusing. When I divided the work into smaller tasks such as creating files, implementing one feature, testing it, and then moving to the next feature, I was able to make steady progress and identify errors more easily.
 
 ---
 
@@ -79,11 +79,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Hands-on practice helps me understand technical concepts better than only reading about them.
 
 ### Evidence from my life
 
-Add your answer here...
+When learning programming and development concepts, I understood them better after writing and running the code myself. For example, practicing Java programs, DSA problems, Git commands, and full-stack project features helped me remember the concepts more clearly than simply reading their definitions.
 
 ---
 
