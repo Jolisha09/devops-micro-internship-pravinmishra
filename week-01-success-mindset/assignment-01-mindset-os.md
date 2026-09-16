@@ -374,28 +374,28 @@ Examples:
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+This week I realized that I can make steady progress when I divide my goals into smaller tasks and follow a proper routine. I also understood that consistency is more important than trying to complete everything in one day. Having a clear plan helps me stay focused and reduces confusion.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I noticed that I sometimes spend too much time thinking about completing everything perfectly, which can delay starting the actual work. I also get distracted when I switch between different tasks. I need to focus on completing one important task at a time instead of worrying about everything together.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will follow a fixed daily study system. From Monday to Friday, I will use 5:00 AM to 6:30 AM for aptitude and core technical concepts, and 8:45 PM to 11:00 PM for Java, DSA, and project work. I will keep my phone away during these focused sessions and review my progress every Sunday.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`Add your URL here`
+https://lnkd.in/p/gRKYufrC
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: https://lnkd.in/p/gRKYufrC  
+- Blog / Medium : https://medium.com/@jolishaangelin/my-2-0-version-from-student-to-software-engineer-2dca93b99ed8  
 
 ---
 
