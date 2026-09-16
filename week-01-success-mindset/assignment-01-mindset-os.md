@@ -33,7 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+I believe that consistency is more important than talent when it comes to building a successful career. Many people around me think that naturally talented students have a greater advantage, but I believe regular effort and continuous learning can make a bigger difference over time. Even if someone starts with limited knowledge, consistently practicing, learning from mistakes, and improving their skills can help them achieve their goals.
 
 ---
 
