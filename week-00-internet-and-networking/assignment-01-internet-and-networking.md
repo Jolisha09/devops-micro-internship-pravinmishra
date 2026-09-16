@@ -28,7 +28,6 @@ Save your screenshot in the `screenshots` folder and update the file name below.
 ![Task 1 Screenshot](screenshots/task-1-chatgpt.png)
 
 
-Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ---
 
@@ -239,9 +238,7 @@ Replace `YOUR-GITHUB-USERNAME` with your GitHub username — that link is your p
 
 Paste your LinkedIn post URL here:
 
-```text
-Add your URL here...
-```
+https://lnkd.in/p/gh6VFm3W
 
 ---
 
@@ -249,7 +246,34 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+✅Completed Tasks of Week 00 - Internet and Networking, of the DevOps Micro Internship.
+
+This week was mainly about understanding the basics that are needed before getting into the actual DevOps tools and workflows.
+
+ChatGPT
+Learned how to use ChatGPT effectively as a learning assistant for understanding technical concepts, simplifying complex topics, and improving my learning process.
+
+Internet & Networking
+Worked through the basics of networking, including packet switching, IP addresses, TCP/IP, HTTP/HTTPS, and how users can access websites hosted on remote servers.
+
+Application Architecture
+Learned the basics of two-tier and three-tier application architecture and understood how the frontend, backend, and database interact with each other.
+
+DNS
+Learned how DNS works and how domain names are resolved to IP addresses. I also understood the role of A records in connecting a domain to an IPv4 address.
+
+VS Code Setup
+Set up and worked with my development environment in VS Code and practiced using the integrated terminal and basic commands.
+
+I have also attached some of the diagrams and screenshots from my Week 0 work as evidence of what I completed.
+
+Looking forward to continuing with the upcoming tasks and gaining more hands-on experience with DevOps.
+
+P.S. This post is part of the DevOps Micro Internship (DMI) — Self-Paced Engineer Track — by Pravin Mishra. 
+My graded progress is public: https://dmi.pravinmishra.com/s/Jolisha09.html
+Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-linkedin&utm_campaign=self-paced
+
+#DMIByPravinMishra #AgenticAI #DevOps #Networking #DNS #VSCode #Learning
 
 ---
 
@@ -257,19 +281,19 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+I found it easy to understand basic networking concepts such as IP addresses, DNS, HTTP/HTTPS, and using the VS Code terminal.
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Understanding how different networking components work together and creating the application architecture diagram was initially difficult, but I understood them better through practice.
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+Next week, I will improve my command-line skills, Git and GitHub knowledge, and learn more about DevOps tools through hands-on practice.
 
 ---
 
