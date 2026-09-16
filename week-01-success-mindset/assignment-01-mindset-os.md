@@ -209,7 +209,9 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+Yes.
+
+During my studies, there were times when I took a shortcut instead of following the complete learning process, especially when I was trying to finish a task quickly. At first, I felt relieved because I completed the task faster, but later I felt guilty and uncomfortable because I knew I had not learned the concept properly. It made me realize that shortcuts may save time temporarily, but they can create gaps in my knowledge. Since then, I have been trying to focus more on understanding the concept and doing the work properly.
 
 ---
 
