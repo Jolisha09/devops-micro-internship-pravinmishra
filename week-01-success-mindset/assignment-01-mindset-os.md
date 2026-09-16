@@ -153,13 +153,31 @@ Hashtags:
 
 ## Your Article
 
-Add your answer here...
+## From Campus Learner to Software Engineer: The Journey of Jolisha
+
+Three years ago, Jolisha was a final-year Computer Science Engineering student preparing for placements and working to strengthen her programming and development skills. Today, she has established herself as a software engineer with practical experience in full-stack development, cloud technologies, and modern software engineering practices.
+
+Her journey began with a strong focus on Java, Data Structures and Algorithms, and web development. During her college years, she worked on improving her problem-solving skills by regularly practicing coding problems and building practical applications. Instead of limiting her learning to classroom concepts, she focused on applying what she learned through projects.
+
+One of the important milestones in her journey was building full-stack applications using technologies such as React, Node.js, Express, and databases. These projects helped her understand how frontend interfaces, backend APIs, authentication, and databases work together to form a complete application. She also explored AI integration in applications and learned how technology could be used to solve practical problems.
+
+Her GitHub profile reflected her growth over the years. It contained academic projects, full-stack applications, DevOps assignments, coding practice, and documentation of her learning journey. Her projects demonstrated not only programming knowledge but also her ability to use Git, GitHub, APIs, databases, and deployment tools.
+
+She also completed certifications and technical learning programs in areas including Cloud Computing, Internet of Things, and Responsible and Safe AI Systems. These experiences gave her exposure to technologies beyond traditional programming and helped her understand the importance of cloud and emerging technologies in software development.
+
+Another important part of her growth was her participation in internships, technical training, seminars, workshops, and project presentations. These experiences improved her communication skills and gave her opportunities to work with real-world development practices.
+
+By this stage, Jolisha had also developed a disciplined approach to learning. She understood that becoming a strong software engineer was not about learning everything at once. It was about continuously improving, building projects, solving problems, learning from mistakes, and adapting to new technologies.
+
+Her journey from a college student learning the basics to a professional working on real software projects showed how consistent effort and practical experience could transform technical skills into a career. The projects, GitHub contributions, certifications, internships, and technical knowledge she accumulated became evidence of that progress.
+
+Today, her story stands as an example of how a student can build a strong technology career by combining consistent learning, practical development, problem-solving, and the willingness to keep improving.
 
 ### Public Link
 
 Paste your link here:
 
-`Add your URL here`
+https://medium.com/@jolishaangelin/my-2-0-version-from-student-to-software-engineer-2dca93b99ed8
 
 ---
 
