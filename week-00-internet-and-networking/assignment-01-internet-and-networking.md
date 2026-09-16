@@ -98,8 +98,6 @@ Save your diagram image in the `screenshots` folder and update the file name bel
 ![Application Architecture Diagram](screenshots/task-3-diagram.png)
 
 
-Replace `task-3-diagram.png` with your actual diagram file name.
-
 ---
 
 ## Technologies Used
@@ -146,7 +144,9 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+DNS (Domain Name System) is like the phonebook of the Internet. It converts a human-readable domain name such as epicreads.com into an IP address that computers can understand. This allows users to access the website without remembering the IP address.
+
+To connect epicreads.com to the given IP address 52.172.142.222, an A record should be used. An A record maps a domain name directly to an IPv4 address. Therefore, the A record for epicreads.com should point to 52.172.142.222. The port number 3000 is not included in the DNS record.
 
 ---
 
