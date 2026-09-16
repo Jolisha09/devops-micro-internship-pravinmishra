@@ -57,7 +57,13 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user from any country visits the EpicReads website hosted in Finland, the request travels through the Internet using packet switching. The user's data is divided into small packets, which can travel through different routes and are reassembled at the destination.
+
+Every device connected to the Internet has an IP address, which helps identify the sender and destination. TCP/IP is used to transfer the data reliably between the user's device and the server in Finland.
+
+When the user enters the website address, DNS converts the domain name into the server's IP address. Then, HTTP/HTTPS is used to request and receive the website's content. HTTPS provides secure communication by encrypting the data exchanged between the user and the website.
+
+This allows users globally to access EpicReads from Finland.
 
 ---
 
