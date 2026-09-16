@@ -310,7 +310,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+Yes. I completed a private brain dump in my notebook and listed my current tasks, responsibilities, goals, worries, ideas, and things I need to focus on.
 
 ---
 
@@ -328,7 +328,12 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+- Monday to Friday: College, placement preparation, technical learning, and DSA practice
+- Saturday: Project development, coding practice, and revision
+- Sunday: Weekly revision, project work, planning, and preparation for the upcoming week
+- Morning: Aptitude and core technical concepts
+- Evening: Java, DSA, development practice, and project work
+- Every week: Review progress and update my learning goals
 
 ---
 
@@ -336,11 +341,13 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+- Monday to Friday: 8:45 PM – 11:00 PM
+- Saturday: 5:00 PM – 7:00 PM
+- Sunday: 5:00 PM – 7:00 PM
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+- 7 focused sessions per week
 
 ---
 
@@ -354,7 +361,12 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+- Keep my phone away during focused study sessions.
+- Avoid unnecessary social media during study time.
+- Do not switch between multiple tasks while studying.
+- Complete the planned task before starting unrelated activities.
+- Use breaks for rest instead of extended scrolling.
+- Keep my study environment clean and organized.
 
 ---
 
